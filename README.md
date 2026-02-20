@@ -1,5 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Samuel%20Siri&fontSize=80&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20DevOps%20%7C%20Competitive%20Programmer&descSize=18&descColor=8b949e&descAlignY=55"/>
-
 <div align="center">
 
 ```
@@ -11,40 +9,40 @@
 ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚══════╝╚══════╝     ╚══════╝╚═╝╚═╝  ╚═╝╚═╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%87%A9%F0%9F%87%B4+From+the+Dominican+Republic;Building+systems+that+scale+%F0%9F%9A%80;Preparing+for+IOI+2026+%F0%9F%8F%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Web+Developer+%F0%9F%95%B8%EF%B8%8F;Competitive+Programmer+%F0%9F%A7%A9;I+break+things+and+sometimes+fix+them+%F0%9F%94%A7)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=SamuelSIri&style=for-the-badge&color=161b22&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=SamuelSIri&style=for-the-badge&color=161b22&labelColor=0d1117&label=STALKERS" alt="Profile views" />
 
 </div>
 
 ---
 
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSIri&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" />
+## Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+I'm Samuel, an 18 y/o who mass consume coffee and mass produce code. ☕
 
-I'm a **21-year-old developer** from **Dominican Republic** who genuinely loves programming. Currently working as a **DevOps & Infrastructure Engineer** at Lux Vision LLC in Puerto Rico, where I specialize in LED screens and digital signage solutions.
+I spend most of my time building web apps, breaking production on Fridays, and convincing myself that *this* will be the project I actually finish.
 
-Beyond my day job, I take on freelance projects building backends, landing pages, and business automation systems for Dominican companies.
+Currently on a mission to get to the **International Olympiad in Informatics** — because apparently I enjoy suffering through algorithm problems at 3am. 🏆
 
-🎯 **Current Mission:** Preparing for the **Dominican Informatics Olympiad (ODI) 2026** with the goal of representing my country at the **International Olympiad in Informatics in Uzbekistan**.
+When I'm not coding, I'm probably tweaking my Arch + Hyprland setup for the 47th time instead of being productive.
 
-<br clear="right"/>
+> *"It works on my machine"* — me, every single time
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Stuff I Use
 
 <div align="center">
 
-### Languages
+### Languages (the ones I mass use)
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,typescript,javascript,cpp,python&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,java,cpp,python&theme=dark" />
   </a>
 </p>
 
-### Backend & Frameworks
+### Backend 
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=spring,nodejs,express,nestjs&theme=dark" />
@@ -58,17 +56,17 @@ Beyond my day job, I take on freelance projects building backends, landing pages
   </a>
 </p>
 
-### DevOps & Infrastructure
+### DevOps & Databases
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,terraform,nginx,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,postgresql,mysql,mongodb,redis&theme=dark" />
   </a>
 </p>
 
-### Databases & Tools
+### Tools I Can't Live Without
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,git,neovim&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,neovim,arch,vscode&theme=dark" />
   </a>
 </p>
 
@@ -76,7 +74,7 @@ Beyond my day job, I take on freelance projects building backends, landing pages
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Analytics
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Stats (for the flex)
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SamuelSIri&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&count_private=true" />
@@ -84,70 +82,43 @@ Beyond my day job, I take on freelance projects building backends, landing pages
 </div>
 
 <div align="center">
-  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=SamuelSIri&custom_title=Samuel's%20Contribution%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=8b949e&area_color=161b22&area=true&hide_border=true" />
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=SamuelSIri&custom_title=My%20Contribution%20Graph%20(proof%20I%20touch%20grass%20sometimes)&bg_color=0d1117&color=58a6ff&line=58a6ff&point=8b949e&area_color=161b22&area=true&hide_border=true" />
 </div>
 
 ---
 
-## 🛠️ What I'm Building
+## 🛠️ What I'm Up To
 
-<table>
-<tr>
-<td width="50%">
-
-**🤖 WhatsApp Business Integrations**
-> Automation systems and chatbots for lead generation using the WhatsApp Business API
-
-</td>
-<td width="50%">
-
-**🌐 Full-stack Web Applications**
-> Dashboards, admin panels, and landing pages for Dominican businesses
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**⚙️ Odoo Customizations**
-> ERP integrations and custom modules for business automation
-
-</td>
-<td width="50%">
-
-**🔧 Backend APIs**
-> RESTful services with Spring Boot and Node.js
-
-</td>
-</tr>
-</table>
+- 🌐 **Building web apps** — full-stack stuff, from pretty UIs to APIs that don't crash (most of the time)
+- 🤖 **WhatsApp integrations** — making bots do the boring work so humans don't have to
+- 🧩 **Competitive programming** — grinding Codeforces and questioning my life choices
+- 🎨 **Ricing my setup** — because obviously that's more important than actual work
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Vibe
 
 ```javascript
-const currentFocus = {
-    competitiveProgramming: {
-        goal: "ODI 2026 → IOI Uzbekistan",
-        practicing: ["Data Structures", "Algorithms", "Problem Solving"],
-        platform: "Codeforces"
-    },
-    professional: {
-        learning: ["System Design", "Distributed Systems"],
-        building: "Real products that solve real problems"
-    },
+const samuel = {
+    mass_using: ["TypeScript", "React", "Node.js"],
+    mass_learning: ["Algorithms", "System Design"],
+    mass_avoiding: ["Sleep", "Going outside"],
+    
     setup: {
-        os: "Arch Linux",
+        os: "Arch btw",
         wm: "Hyprland",
-        aesthetic: "Dark themes, transparency, blur, pixel art"
-    }
+        editor: "Neovim (I use it to feel superior)",
+        theme: "Dark everything, always"
+    },
+    
+    goal_2026: "IOI Uzbekistan 🇺🇿",
+    coffee_today: Infinity
 };
 ```
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Trophies (look mom I'm winning)
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SamuelSIri&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
@@ -155,7 +126,7 @@ const currentFocus = {
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 This Snake Eats My Commits
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/SamuelSIri/SamuelSIri/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -165,15 +136,15 @@ const currentFocus = {
 
 <div align="center">
 
-## 📫 Let's Connect
+## 📫 Wanna Talk?
 
 <a href="mailto:xamuelacostasiri@gmail.com">
-  <img src="https://img.shields.io/badge/Email-xamuelacostasiri%40gmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=58a6ff&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Shoot_me_an_email-xamuelacostasiri%40gmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=58a6ff&labelColor=0d1117" />
 </a>
 
 <br><br>
 
-*"I believe in understanding things deeply rather than just making them work."*
+*If my code works, I mass typed it. If it doesn't, I also mass typed it but faster.*
 
 </div>
 
