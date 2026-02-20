@@ -9,9 +9,7 @@
 ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚══════╝╚══════╝     ╚══════╝╚═╝╚═╝  ╚═╝╚═╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Web+Developer+%F0%9F%95%B8%EF%B8%8F;Competitive+Programmer+%F0%9F%A7%A9;I+break+things+and+sometimes+fix+them+%F0%9F%94%A7)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=SamuelSIri&style=for-the-badge&color=161b22&labelColor=0d1117&label=STALKERS" alt="Profile views" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=435&height=45&lines=Web+Developer;Competitive+Programmer;I+use+arch+btw)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,13 +19,13 @@
 
 I'm Samuel, an 18 y/o who mass consume coffee and mass produce code. ☕
 
-I spend most of my time building web apps, breaking production on Fridays, and convincing myself that *this* will be the project I actually finish.
+I spend most of my time building web apps, mass learning new frameworks, and mass shipping features at 2am because that's when the best ideas hit.
 
-Currently on a mission to get to the **International Olympiad in Informatics** — because apparently I enjoy suffering through algorithm problems at 3am. 🏆
+Currently on a mission to get to the **International Olympiad in Informatics** — because apparently I enjoy mass solving algorithm problems at 3am. 🏆
 
 When I'm not coding, I'm probably tweaking my Arch + Hyprland setup for the 47th time instead of being productive.
 
-> *"It works on my machine"* — me, every single time
+> *i use arch btw*
 
 ---
 
@@ -35,17 +33,17 @@ When I'm not coding, I'm probably tweaking my Arch + Hyprland setup for the 47th
 
 <div align="center">
 
-### Languages (the ones I mass use)
+### Languages
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,java,cpp,python&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,cs,cpp,python&theme=dark" />
   </a>
 </p>
 
 ### Backend 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,nodejs,express,nestjs&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet&theme=dark" />
   </a>
 </p>
 
@@ -74,15 +72,15 @@ When I'm not coding, I'm probably tweaking my Arch + Hyprland setup for the 47th
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Stats (for the flex)
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SamuelSIri&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelSIri&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SamuelSiri&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=8b949e&icon_color=a855f7&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelSiri&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=8b949e&dates=8b949e" />
 </div>
 
 <div align="center">
-  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=SamuelSIri&custom_title=My%20Contribution%20Graph%20(proof%20I%20touch%20grass%20sometimes)&bg_color=0d1117&color=58a6ff&line=58a6ff&point=8b949e&area_color=161b22&area=true&hide_border=true" />
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=SamuelSiri&custom_title=Contribution%20Graph&bg_color=0d1117&color=a855f7&line=a855f7&point=8b949e&area_color=161b22&area=true&hide_border=true" />
 </div>
 
 ---
@@ -91,7 +89,7 @@ When I'm not coding, I'm probably tweaking my Arch + Hyprland setup for the 47th
 
 - 🌐 **Building web apps** — full-stack stuff, from pretty UIs to APIs that don't crash (most of the time)
 - 🤖 **WhatsApp integrations** — making bots do the boring work so humans don't have to
-- 🧩 **Competitive programming** — grinding Codeforces and questioning my life choices
+- 🧩 **Competitive programming** — grinding Codeforces and mass solving problems
 - 🎨 **Ricing my setup** — because obviously that's more important than actual work
 
 ---
@@ -118,10 +116,10 @@ const samuel = {
 
 ---
 
-## 🏆 Trophies (look mom I'm winning)
+## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SamuelSIri&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SamuelSiri&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </div>
 
 ---
@@ -129,7 +127,7 @@ const samuel = {
 ## 🐍 This Snake Eats My Commits
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SamuelSIri/SamuelSIri/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/SamuelSiri/SamuelSiri/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -139,13 +137,13 @@ const samuel = {
 ## 📫 Wanna Talk?
 
 <a href="mailto:xamuelacostasiri@gmail.com">
-  <img src="https://img.shields.io/badge/Shoot_me_an_email-xamuelacostasiri%40gmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=58a6ff&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Shoot_me_an_email-xamuelacostasiri%40gmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=a855f7&labelColor=0d1117" />
 </a>
 
 <br><br>
 
-*If my code works, I mass typed it. If it doesn't, I also mass typed it but faster.*
+*Mass shipping code, mass breaking prod, mass fixing bugs at 3am.*
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:a855f7,100:0d1117&height=120&section=footer"/>
