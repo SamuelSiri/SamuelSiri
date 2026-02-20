@@ -98,7 +98,7 @@ When I'm not coding, I'm probably tweaking my Arch + Hyprland setup for the 47th
 
 ```javascript
 const samuel = {
-    mass_using: ["TypeScript", "React", "Node.js"],
+    mass_using: ["TypeScript", "React", "Node.js", "C++"],
     mass_learning: ["Algorithms", "System Design"],
     mass_avoiding: ["Sleep", "Going outside"],
     
@@ -113,22 +113,6 @@ const samuel = {
     coffee_today: Infinity
 };
 ```
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SamuelSiri&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</div>
-
----
-
-## 🐍 This Snake Eats My Commits
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SamuelSiri/SamuelSiri/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
 ---
 
