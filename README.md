@@ -1,24 +1,40 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080810,30:1a0533,60:4a0080,100:a855f7&height=200&section=header&text=SAMUEL%20SIRI&fontSize=60&fontColor=ffffff&fontAlignY=45&desc=mass%20producing%20code%20since%20birth&descAlignY=68&descSize=16&animation=fadeIn"/>
-
 <div align="center">
 
+```
+███████╗ █████╗ ███╗   ███╗██╗   ██╗███████╗██╗          ███████╗██╗██████╗ ██╗
+██╔════╝██╔══██╗████╗ ████║██║   ██║██╔════╝██║          ██╔════╝██║██╔══██╗██║
+███████╗███████║██╔████╔██║██║   ██║█████╗  ██║          ███████╗██║██████╔╝██║
+╚════██║██╔══██║██║╚██╔╝██║██║   ██║██╔══╝  ██║          ╚════██║██║██╔══██╗██║
+███████║██║  ██║██║ ╚═╝ ██║╚██████╔╝███████╗███████╗     ███████║██║██║  ██║██║
+╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚══════╝╚══════╝     ╚══════╝╚═╝╚═╝  ╚═╝╚═╝
+```
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Web+Developer+%F0%9F%8C%90;Competitive+Programmer+%F0%9F%8F%86;2am+feature+shipper+%E2%9C%A8;mass+producing+code+%E2%9A%A1;i+use+arch+btw+%F0%9F%90%A7)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=SamuelSiri&color=7c3aed&style=flat-square&label=profile+views"/>
+&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/SamuelSiri?color=a855f7&logo=github&logoColor=white&style=flat-square)
+&nbsp;
+![GitHub User's stars](https://img.shields.io/github/stars/SamuelSiri?color=a855f7&logo=github&logoColor=white&style=flat-square&affiliations=OWNER)
 
 </div>
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=SamuelSiri&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d1a&title_color=a855f7&text_color=8b949e&icon_color=a855f7&count_private=true&rank_icon=github"/>
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=SamuelSiri&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d1a&title_color=a855f7&text_color=8b949e&icon_color=a855f7&count_private=true&rank_icon=github&include_all_commits=true"/>
 
 ### `~$ cat about.txt`
 
-Hey! I'm **Samuel** — 18 y/o coffee addict & code mass-producer ☕
+Hey! I'm **Samuel** — 18 y/o ☕ coffee addict & code mass-producer.
 
-- 🔭 Currently on a mission → **Build my own OS**
+- 🔭 On a mission → **Build my own Operating System**
 - 🧩 Grinding **competitive programming** at 3am
-- 🎨 Tweaking Arch + Hyprland for the **47th time**
-- ⚡ Best ideas hit at **2am** (coincidence? no)
-- 💬 Ask me about anything backend or algo-related
+- 🎨 Tweaking **Arch + Hyprland** for the 47th time
+- ⚡ Best ideas always hit at **2am**
+- 🏆 Competing in **algorithm contests** for fun apparently
+- 💬 Ask me about **backend, algorithms, or system design**
+- 📫 Reach me at **xamuelacostasiri@gmail.com**
+- ⚙️ This profile is **always under construction**
 
 > *i use arch btw*
 
@@ -26,78 +42,65 @@ Hey! I'm **Samuel** — 18 y/o coffee addict & code mass-producer ☕
 
 ---
 
+### `~$ neofetch`
+
+```
+        /\         samuel@arch
+       /  \        -----------
+      /\   \       OS:     Arch Linux x86_64
+     /  __  \      WM:     Hyprland
+    /  (  )  \     Editor: Neovim
+   / __|  |__ \    Theme:  Dark everything, always
+  /.`        `.\   Shell:  zsh
+                   Coffee: Infinity cups/day
+```
+
+---
+
 ### `~$ cat stack.json`
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="110"><b>Languages</b></td>
-<td>
+#### Languages
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0d0d1a?style=flat-square&logo=typescript&logoColor=a855f7)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d1a?style=flat-square&logo=javascript&logoColor=a855f7)
-![C++](https://img.shields.io/badge/C++-0d0d1a?style=flat-square&logo=cplusplus&logoColor=a855f7)
-![C#](https://img.shields.io/badge/C%23-0d0d1a?style=flat-square&logo=csharp&logoColor=a855f7)
-![Python](https://img.shields.io/badge/Python-0d0d1a?style=flat-square&logo=python&logoColor=a855f7)
+<a href="#"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" title="TypeScript"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" title="JavaScript"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48" title="C++"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="48" title="C"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=cs&theme=dark" width="48" title="C#"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" title="Python"/></a>
 
-</td>
-</tr>
-<tr>
-<td align="center"><b>Backend</b></td>
-<td>
+#### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-0d0d1a?style=flat-square&logo=nodedotjs&logoColor=a855f7)
-![Express](https://img.shields.io/badge/Express-0d0d1a?style=flat-square&logo=express&logoColor=a855f7)
-![NestJS](https://img.shields.io/badge/NestJS-0d0d1a?style=flat-square&logo=nestjs&logoColor=a855f7)
-![.NET](https://img.shields.io/badge/.NET-0d0d1a?style=flat-square&logo=dotnet&logoColor=a855f7)
+<a href="#"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" title="Node.js"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" title="Express"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=nestjs&theme=dark" width="48" title="NestJS"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="48" title=".NET"/></a>
 
-</td>
-</tr>
-<tr>
-<td align="center"><b>Frontend</b></td>
-<td>
+#### Frontend
 
-![React](https://img.shields.io/badge/React-0d0d1a?style=flat-square&logo=react&logoColor=a855f7)
-![Next.js](https://img.shields.io/badge/Next.js-0d0d1a?style=flat-square&logo=nextdotjs&logoColor=a855f7)
-![Tailwind](https://img.shields.io/badge/Tailwind-0d0d1a?style=flat-square&logo=tailwindcss&logoColor=a855f7)
-![HTML5](https://img.shields.io/badge/HTML5-0d0d1a?style=flat-square&logo=html5&logoColor=a855f7)
-![CSS3](https://img.shields.io/badge/CSS3-0d0d1a?style=flat-square&logo=css3&logoColor=a855f7)
+<a href="#"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" title="React"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" title="Next.js"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" title="Tailwind CSS"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" title="HTML5"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" title="CSS3"/></a>
 
-</td>
-</tr>
-<tr>
-<td align="center"><b>Databases</b></td>
-<td>
+#### Databases & DevOps
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d1a?style=flat-square&logo=postgresql&logoColor=a855f7)
-![MySQL](https://img.shields.io/badge/MySQL-0d0d1a?style=flat-square&logo=mysql&logoColor=a855f7)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d0d1a?style=flat-square&logo=mongodb&logoColor=a855f7)
-![Redis](https://img.shields.io/badge/Redis-0d0d1a?style=flat-square&logo=redis&logoColor=a855f7)
+<a href="#"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" title="PostgreSQL"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" title="MySQL"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" title="MongoDB"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=redis&theme=dark" width="48" title="Redis"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" title="Docker"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" title="Linux"/></a>
 
-</td>
-</tr>
-<tr>
-<td align="center"><b>DevOps</b></td>
-<td>
+#### Tools I Can't Live Without
 
-![Linux](https://img.shields.io/badge/Linux-0d0d1a?style=flat-square&logo=linux&logoColor=a855f7)
-![Docker](https://img.shields.io/badge/Docker-0d0d1a?style=flat-square&logo=docker&logoColor=a855f7)
-![Git](https://img.shields.io/badge/Git-0d0d1a?style=flat-square&logo=git&logoColor=a855f7)
-
-</td>
-</tr>
-<tr>
-<td align="center"><b>Setup</b></td>
-<td>
-
-![Arch](https://img.shields.io/badge/Arch_Linux-0d0d1a?style=flat-square&logo=archlinux&logoColor=a855f7)
-![Hyprland](https://img.shields.io/badge/Hyprland-0d0d1a?style=flat-square&logo=wayland&logoColor=a855f7)
-![Neovim](https://img.shields.io/badge/Neovim-0d0d1a?style=flat-square&logo=neovim&logoColor=a855f7)
-
-</td>
-</tr>
-</table>
+<a href="#"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" title="Git"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=neovim&theme=dark" width="48" title="Neovim"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=arch&theme=dark" width="48" title="Arch Linux"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" title="VSCode"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" title="GitHub"/></a>
 
 </div>
 
@@ -108,29 +111,46 @@ Hey! I'm **Samuel** — 18 y/o coffee addict & code mass-producer ☕
 ```typescript
 const samuel = {
     mass_using:    ["TypeScript", "React", "Node.js", "C++", "C"],
-    mass_learning: ["Algorithms", "System Design"],
-    mass_avoiding: ["Sleep", "Going outside"],
+    mass_learning: ["Algorithms", "System Design", "OS Development"],
+    mass_avoiding: ["Sleep", "Going outside", "Touching grass"],
 
     setup: {
-        os:     "Arch btw",
-        wm:     "Hyprland",
-        editor: "Neovim (I use it to feel superior)",
-        theme:  "Dark everything, always",
+        os:       "Arch Linux (btw)",
+        wm:       "Hyprland",
+        terminal: "Kitty",
+        editor:   "Neovim (I use it to feel superior)",
+        shell:    "zsh",
+        theme:    "Dark everything, always",
+        dotfiles: "meticulously riced",
     },
 
-    goal_2026:    "Making my own Operating System xd",
+    currently: {
+        building:  "Full-stack web apps that don't crash (most of the time)",
+        grinding:  "Competitive programming — Codeforces rated grindset",
+        planning:  "Making my own Operating System xd",
+        obsessing: "Algorithm problems at ungodly hours",
+    },
+
+    fun_facts: [
+        "Tweaked my Arch setup 47+ times",
+        "Best commit messages at 3am",
+        "Coffee intake: unmeasurable",
+        "Will refactor perfectly working code",
+    ],
+
+    goal_2026:    "Ship my own OS to production",
     coffee_today: Infinity,
 };
 ```
 
 ---
 
-### `~$ git log --stat`
+### `~$ git log --oneline --graph`
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelSiri&theme=github-dark-blue&hide_border=true&background=0d0d1a&stroke=1e1e3a&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=8b949e&dates=8b949e&sideNums=ffffff"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSiri&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d1a&title_color=a855f7&text_color=8b949e&langs_count=6"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSiri&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d1a&title_color=a855f7&text_color=8b949e&langs_count=8&card_width=400"/>
 
 </div>
 
@@ -142,15 +162,39 @@ const samuel = {
 
 ---
 
+### `~$ cat roadmap.md`
+
+```
+CURRENT QUEST LOG
+═══════════════════════════════════════════════════════
+  [██████████] 100%  Master TypeScript & Node.js
+  [████████░░]  80%  System Design fundamentals
+  [███████░░░]  70%  Advanced Algorithms & DS
+  [█████░░░░░]  50%  OS internals & low-level C
+  [████░░░░░░]  40%  Compiler theory
+  [██░░░░░░░░]  20%  Build my own OS  ← FINAL BOSS
+═══════════════════════════════════════════════════════
+```
+
+---
+
+### `~$ ls ./what-im-doing`
+
+```
+🌐  Building web apps      — full-stack, from pretty UIs to APIs that don't crash (most of the time)
+🧩  Competitive prog       — grinding Codeforces, mass solving algorithm problems
+🎨  Ricing my setup        — because obviously that's more important than actual work
+📚  Deep learning algos    — Dijkstra, segment trees, DP — the whole menu
+⚙️  System programming     — getting closer to the metal, one segfault at a time
+```
+
+---
+
 ### `~$ ping samuel`
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/xamuelacostasiri%40gmail.com-0d0d1a?style=for-the-badge&logo=gmail&logoColor=a855f7&labelColor=1e1e3a)](mailto:xamuelacostasiri@gmail.com)
-
-<br>
-
-![](https://komarev.com/ghpvc/?username=SamuelSiri&color=7c3aed&style=flat-square&label=profile+views)
+[![Gmail](https://img.shields.io/badge/xamuelacostasiri%40gmail.com-0d0d1a?style=for-the-badge&logo=gmail&logoColor=a855f7&labelColor=1a0533)](mailto:xamuelacostasiri@gmail.com)
 
 <br><br>
 
