@@ -190,7 +190,7 @@ CURRENT QUEST LOG
 
 ---
 
-### `~$ ping samuel`
+### `~$ ping samuelsiri`
 
 <div align="center">
 
